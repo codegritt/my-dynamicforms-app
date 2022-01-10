@@ -7,11 +7,11 @@ import { DynFormConfig } from '@myndpm/dyn-forms';
 
 export const simpleData = {
   billing: {
-    firstName: 'Mynd',
-    lastName: 'Management',
+    firstName: 'Gokul',
+    lastName: 'Angular',
     address1: '1611 Telegraph Ave',
     address2: 'Suite 1200',
-    country: 'US',
+    country: 'India',
     zipCode: '94612',
   },
   account: 'GUEST',
